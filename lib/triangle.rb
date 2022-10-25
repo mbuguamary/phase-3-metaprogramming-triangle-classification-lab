@@ -53,7 +53,7 @@
   end
   class TriangleError < StandardError
     def msg
-      "GUYS! Come look at this clown who doesn't know what Triangles look like!"
+      "Triangle Invalid!"
     end
   end
 end
